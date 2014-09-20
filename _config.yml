@@ -3,7 +3,7 @@ title: "Catan Enterprises, LLC"
 email: catanenterprises@gmail.com
 description: "Catan Enterprises, LLC"
 
-baseurl: "catanenterprises/" # the subpath of your site, e.g. /blog/
+baseurl: "jenningsanderson.github.io/catanenterprises/" # the subpath of your site, e.g. /blog/
 
 url: "http://www.catanenterprises.com" # the base hostname & protocol for your site
 
