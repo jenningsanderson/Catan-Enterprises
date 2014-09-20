@@ -1,4 +1,0 @@
-catanenterprises
-================
-
-Catan Enterprises, LLC
