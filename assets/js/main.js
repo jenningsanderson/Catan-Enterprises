@@ -6,8 +6,8 @@ $(document).ready(function() {
 		pager: false,
 		adaptiveHeight: false,
 		responsive: true,
-		minSlides: 4,
-		maxSlides: 4,
+		minSlides: 5,
+		maxSlides: 5,
 		slideWidth: 800,
 		slideMargin: 0
 	});
