@@ -3,8 +3,6 @@ title: "Catan Enterprises, LLC"
 email: catanenterprises@gmail.com
 description: "Performing high-efficiency infill development, to promote a walkable, more vibrant city environment for our tenants and ourselves"
 
-baseurl: "/Catan-Enterprises" # the subpath of your site, e.g. /blog/
-
 url: "http://www.catanenterprises.com" # the base hostname & protocol for your site
 
 
