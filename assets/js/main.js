@@ -6,9 +6,9 @@ $(document).ready(function() {
 		pager: false,
 		adaptiveHeight: false,
 		responsive: true,
-		minSlides: 5,
+		minSlides: 3,
 		maxSlides: 5,
-		slideWidth: 800,
+		slideWidth: 300,
 		slideMargin: 0
 	});
 });
