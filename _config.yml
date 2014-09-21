@@ -5,7 +5,7 @@ description: "Performing high-efficiency infill development, to promote a walkab
 
 baseurl: "/Catan-Enterprises" # the subpath of your site, e.g. /blog/
 
-#url: "http://www.catanenterprises.com" # the base hostname & protocol for your site
+url: "http://www.catanenterprises.com" # the base hostname & protocol for your site
 
 
 # Build settings
