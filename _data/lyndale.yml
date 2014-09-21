@@ -1,0 +1,16 @@
+---
+ salepix:
+  - name: Exterior
+    url: "/assets/images/lyndale/exterior.jpg"
+
+  - name: Front Bedroom
+    url: "/assets/images/lyndale/front_bedroom.jpg"
+
+  - name: Kitchen
+    url: "/assets/images/lyndale/kitchen.jpg"
+
+  - name: Back Bedroom
+    url: "/assets/images/lyndale/back_bedroom.jpg"
+
+  - name: Bathroom
+    url: "/assets/images/lyndale/bathroom.jpg"
