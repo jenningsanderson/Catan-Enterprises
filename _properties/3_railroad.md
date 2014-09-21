@@ -1,9 +1,9 @@
 ---
 layout: property
-title:  "Gallatin Ave"
+title:  "1529 Railroad Avenue Triplex"
 date:   2014-09-20 16:40:57
 
-permalink: gallatin/
+permalink: railroad/
 ---
 
 

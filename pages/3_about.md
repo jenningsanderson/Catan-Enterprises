@@ -2,6 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+
+css: about
+js: about
 ---
 
 Catan Enterprises is a member-managed LLC registered in the State of Montana.  We have been in existence since January 2011 with the goals of creating and improving the economic, social, and environmental infrastructure of our company and its surroundings.  In 2011, we acquired and began construction on a super-insulated home which we finished in 2012.  This project established the basis of our business model, which is to acquire underutilized and undervalued properties and add to their value.

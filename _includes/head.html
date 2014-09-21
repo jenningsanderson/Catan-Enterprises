@@ -8,4 +8,14 @@
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+	{% if page.css %}
+		<link rel="stylesheet" href="{{ "/assets/css/{{page.css}}.css" | prepend: site.baseurl }}">
+	{% endif %}
+
+	{% if page.js %}
+		<script src="{{ "/assets/pages/{{page.js}}.js" | prepend: site.baseurl }}" />
+	{% endif %}
+
+
 </head>

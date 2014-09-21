@@ -1,9 +1,9 @@
 ---
 layout: property
-title:  "1529-1531.5 Railroad Avenue"
+title:  "Gallatin Avenue Triplex (Under Construction)"
 date:   2014-09-20 16:40:57
 
-permalink: railroad/
+permalink: gallatin/
 ---
 
 
