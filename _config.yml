@@ -1,7 +1,7 @@
 # Site settings
 title: "Catan Enterprises, LLC"
 email: catanenterprises@gmail.com
-description: "Catan Enterprises, LLC"
+description: "Performing high-efficiency infill development, to promote a walkable, more vibrant city environment for our tenants and ourselves"
 
 baseurl: "/catanenterprises" # the subpath of your site, e.g. /blog/
 
@@ -10,3 +10,9 @@ baseurl: "/catanenterprises" # the subpath of your site, e.g. /blog/
 
 # Build settings
 markdown: kramdown
+
+
+#Add the properties collection
+collections:
+  properties:
+    output: true
