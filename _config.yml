@@ -2,7 +2,7 @@
 title: "Catan Enterprises, LLC"
 location: "Helena, MT"
 email: catanenterprises@gmail.com
-description: "Performing high-efficiency infill development, to promote a walkable, more vibrant city environment for our tenants and ourselves"
+description: "Performing high-efficiency infill development to promote a walkable, more vibrant city environment for our tenants and ourselves"
 
 url: "http://www.catanenterprises.com" # the base hostname & protocol for your site
 
@@ -15,3 +15,7 @@ markdown: kramdown
 collections:
   properties:
     output: true
+
+
+#Custom variables
+images: "/assets/images"

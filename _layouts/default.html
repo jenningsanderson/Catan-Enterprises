@@ -5,6 +5,14 @@
 
   <body>
 
+    <ul id="full-width-header-graphic">
+      {% for image in site.data.header_images %}
+        <li>
+          <img src="{{image.url}}" />
+        </li>
+      {% endfor %}
+    </ul>
+
     {% include header.html %}
 
     <div class="page-content">

@@ -10,7 +10,7 @@ $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$spacing-unit:     30px;
+$spacing-unit:     20px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
@@ -23,6 +23,12 @@ $grey-color-dark:  darken($grey-color, 25%);
 $on-palm:          600px;
 $on-laptop:        800px;
 
+$header-green:	   #3a6132;		
+$footer-green:	   darken($header-green, 1%);
+
+$desired-width:    1000px;
+
+$title-color:      #f1f1f1;
 
 
 // Using media queries with like this:
