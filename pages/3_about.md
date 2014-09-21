@@ -29,8 +29,8 @@ In 2012, as a Senior in Mathematics at Carroll College, Kyle quit working toward
 ###Tyler J. Anfinson
 A graduate of the University of Montana, is interested in pedagogy, transfer of knowledge, and enthusiastically tackling goals.  Is currently enrolled in a Master’s of Education program at Montana State University.
 
-###T. Jennings Anserson
-Graduated from Carroll College with degrees in Computer Science and Mathematics.  Is in his second year at University of Colorado at Boulder, where he is involved in computer programming for emergency response.
+###T. Jennings Anderson
+Graduated from Carroll College with degrees in Computer Science and Mathematics.  Is in his second year at University of Colorado at Boulder where he is involved in computer programming for emergency response.
 
 ###J. Sky Orndoff
 A graduate of the University of Montana, is passionate about building science as it pertains to environmental responsibility and energy conservation.  Is currently a full-time installer of Solar Electric systems with Solar Montana.

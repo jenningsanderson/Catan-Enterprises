@@ -7,9 +7,7 @@ nav: main
 
 Catan Enterprises currently owns and leases 3 properties, one of which is a 3-unit triplex.
 
-The company is currently constructing a second triplex on Gallatin Avenue in the 6th Ward district of Helena, proposed rendering:
-
-![Gallatin Ave. Rendering]({{site.images}}/gallatin_dream.png)
+The company is currently constructing a second triplex on Gallatin Avenue in the 6th Ward district of Helena.
 
 ###All Properties
 <ul class="post-list">

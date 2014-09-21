@@ -7,4 +7,6 @@ permalink: gallatin/
 ---
 
 
-Railroad Avenue Triplex
+A rendering of the Triplex to come:
+
+![Gallatin Ave. Rendering]({{site.images}}/gallatin_dream.png)
