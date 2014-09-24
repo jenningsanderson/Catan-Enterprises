@@ -15,6 +15,9 @@ p{
 	width: 80%;
 }
 
+/*
+This is for generic images (currently used in the profile)
+*/
 img{
 	max-width: 150px;
 	max-height: 200px;
