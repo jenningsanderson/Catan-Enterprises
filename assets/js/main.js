@@ -1,13 +1,13 @@
 $(document).ready(function() {
 	$('#full-width-header-graphic').bxSlider({
-		auto: true,
+		auto: false,
 		speed: 3000,
 		height: 400,
 		pager: false,
 		adaptiveHeight: false,
 		responsive: true,
 		minSlides: 3,
-		maxSlides: 5,
+		maxSlides: 6,
 		slideWidth: 300,
 		slideMargin: 0
 	});
