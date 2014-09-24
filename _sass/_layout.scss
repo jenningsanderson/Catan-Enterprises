@@ -13,7 +13,6 @@
     min-height: 56px;
 
     background-color: $header-green;
-    //background-image: url(#{$header-image});
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -24,9 +23,9 @@
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: 36px;
     font-weight: 400;
-    line-height: 56px;
     letter-spacing: 1px;
     margin-bottom: 0;
+    padding-bottom: 0;
     float: left;
     text-transform: uppercase;
 
@@ -42,7 +41,9 @@
 
 .site-nav {
     float: right;
-    line-height: 45px;
+    margin-top: 15px;
+    
+    padding: 0px;
 
     .menu-icon {
         display: none;
@@ -50,15 +51,18 @@
 
     .page-link {
         color: lighten($title-color, 1%);
-        line-height: $base-line-height;
-        vertical-align: bottom;
         font-size: 20px;
         font-weight: 100;
+        padding: 10px 10px 13px 10px;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 28px;
         }
+    }
+
+    .active {
+        background-color: lighten($header-green, 10%);
     }
 
     @include media-query($on-palm) {
@@ -107,6 +111,47 @@
         }
     }
 }
+
+
+/**
+* Sub Nav:
+*/
+nav.sub-nav{
+    margin: 0;
+    padding: 0;
+    clear: both;
+    text-align: right;
+    border-top: 2px solid #eee;
+}
+
+ul.sub-nav-list{
+    list-style-type: none;
+}
+
+ul.sub-nav-list li{
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+
+    &:hover{
+        background-color: darken($header-green, 10%);
+    }
+
+    &.active{
+        background-color: lighten($header-green, 15%);
+    }
+}
+
+ul.sub-nav-list li a{
+    color: white;
+
+    &:hover{
+        text-decoration: none;
+    }
+}
+
+
 
 
 

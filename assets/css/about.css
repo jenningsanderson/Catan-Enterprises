@@ -1,0 +1,24 @@
+h2{
+	margin-top: 100px;
+	border-bottom: 2px solid #444;
+	width: 80%;
+}
+
+h3{
+	margin-top: 100px;
+	clear: both;
+}
+
+p{
+	line-height: 1.5em;
+	text-align: justify;
+	width: 80%;
+}
+
+img{
+	max-width: 150px;
+	max-height: 200px;
+	float: right;
+	margin-top: -50px;
+	margin-left: 15px;
+}

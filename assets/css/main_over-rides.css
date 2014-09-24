@@ -1,3 +1,9 @@
 .bx-viewport ul{
 	margin: 0;
 }
+
+.stuck{
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
