@@ -25,7 +25,7 @@ This group of four friends recognized similar interests and goals in themselves 
 
 ###Kyle K. Perkins
 ![Kyle](/assets/images/members/kyle.jpg)
-In 2012, as a Senior in Mathematics at Carroll College, Kyle quit working toward his degree to devote more time to his passion for real estate investing and construction.  He is the driving force behind Catan’s planning and strategic positioning.
+Kyle is the driving force behind Catan's planning and strategic positioning. Passionate about applied mathematics and physics, Kyl has devoted his energy to off-grid sustainable living practices while continually fulfilling his passion for real estate investing. 
 
 ###Tyler J. Anfinson
 ![Tyler](/assets/images/members/tyler.jpg)
