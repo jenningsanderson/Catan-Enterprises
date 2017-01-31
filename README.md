@@ -1,4 +1,4 @@
-catanenterprises
+Catan Enterprises
 ================
 
 Catan Enterprises, LLC
