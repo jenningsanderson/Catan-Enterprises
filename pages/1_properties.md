@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Properties
-permalink: /properties/
+permalink: /properties.html
 nav: main
 ---
 
