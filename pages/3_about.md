@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about.html
 nav: main
 css: about
 js: about
@@ -24,20 +24,20 @@ Catan is positioning itself to become a major player in the construction and pro
 This group of four friends recognized similar interests and goals in themselves during a planning process starting in fall of 2010.  All in their mid to late 20’s, we selected these four members based on their complementary skillsets and interests.
 
 ### Kyle K. Perkins
-![Kyle](/assets/images/members/kyle.jpg)
+![Kyle](https://jenningsanderson.com/Catan-Enterprises/assets/images/members/kyle.jpg)
 Kyle is the driving force behind Catan's planning and strategic positioning. Passionate about applied mathematics and physics, Kyle has devoted his energy to off-grid sustainable living practices while continually fulfilling his passion for real estate investing. 
 
 ### Tyler J. Anfinson
-![Tyler](/assets/images/members/tyler.jpg)
+![Tyler](https://jenningsanderson.com/Catan-Enterprises/assets/images/members/tyler.jpg)
 A graduate of the University of Montana, Tyler is interested in pedagogy, transfer of knowledge, and enthusiastically tackling goals.  He is currently enrolled in a Master’s of Education program at Montana State University.
 
 
 ### T. Jennings Anderson
-![Jennings](/assets/images/members/jennings.jpg)
+![Jennings](https://jenningsanderson.com/Catan-Enterprises/assets/images/members/jennings.jpg)
 Jenings graduated from Carroll College with degrees in Computer Science and Mathematics. He is currently back in school at the University of Colorado Boulder as PhD student of computer Science where he studies the use of social media during emergency and crises.
 
 
 ### J. Sky Orndoff
-![Sky](/assets/images/members/sky.jpg)
+![Sky](https://jenningsanderson.com/Catan-Enterprises/assets/images/members/sky.jpg)
 A graduate of the University of Montana, Sky is passionate about building science as it pertains to environmental responsibility and energy conservation.  Working previously as full-time installer of Solar Electric systems with Solar Montana, Sky is now pursuing a degree in Counseling at the University of Montana, Missoula.
 
