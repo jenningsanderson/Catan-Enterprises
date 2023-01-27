@@ -1,18 +1,18 @@
 ---
 - name: Trusses
-  url: "/assets/images/header/trusses.jpg"
+  url: "https://jenningsanderson.com/Catan-Enterprises/assets/images/header/trusses.jpg"
 
 - name: Hauser Exterior 1
-  url: "/assets/images/header/exterior_nw.jpg"
+  url: "https://jenningsanderson.com/Catan-Enterprises/assets/images/header/exterior_nw.jpg"
 
 - name: Hauer Back
-  url: "/assets/images/header/hauser_sun.jpg"
+  url: "https://jenningsanderson.com/Catan-Enterprises/assets/images/header/hauser_sun.jpg"
 
 - name: Milling
-  url: "/assets/images/header/milling.jpg"
+  url: "https://jenningsanderson.com/Catan-Enterprises/assets/images/header/milling.jpg"
 
 - name: South View Trusses
-  url: "/assets/images/header/south_view_trusses.jpg"
+  url: "https://jenningsanderson.com/Catan-Enterprises/assets/images/header/south_view_trusses.jpg"
 
 - name: Hauser Kitchen
-  url: "/assets/images/header/kitchen.jpg"
+  url: "https://jenningsanderson.com/Catan-Enterprises/assets/images/header/kitchen.jpg"
