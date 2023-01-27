@@ -4,7 +4,7 @@ location: "Helena, MT"
 email: info@catanenterprises.com
 description: "Performing high-efficiency infill development to promote a walkable, more vibrant city environment for our tenants and ourselves"
 
-url: "https://jenningsanderson.com/Catan-Enterprises" # the base hostname & protocol for your site
+url: "https://jenningsanderson.com/Catan-Enterprises/" # the base hostname & protocol for your site
 
 
 # Build settings
