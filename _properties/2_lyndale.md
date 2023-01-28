@@ -5,7 +5,7 @@ date:   2014-09-20 16:40:57
 
 js: property
 
-permalink: lyndale/
+permalink: lyndale.html
 ---
 
 A two bedroom, one bath house, 860 square feet.
